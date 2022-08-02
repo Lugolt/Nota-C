@@ -1,0 +1,15 @@
+C:\projetos\Nova pasta\PrimeirosPassosCom2\bin\Debug\net6.0\PrimeirosPassosCom2.exe
+C:\projetos\Nova pasta\PrimeirosPassosCom2\bin\Debug\net6.0\PrimeirosPassosCom2.deps.json
+C:\projetos\Nova pasta\PrimeirosPassosCom2\bin\Debug\net6.0\PrimeirosPassosCom2.runtimeconfig.json
+C:\projetos\Nova pasta\PrimeirosPassosCom2\bin\Debug\net6.0\PrimeirosPassosCom2.dll
+C:\projetos\Nova pasta\PrimeirosPassosCom2\bin\Debug\net6.0\PrimeirosPassosCom2.pdb
+C:\projetos\Nova pasta\PrimeirosPassosCom2\obj\Debug\net6.0\PrimeirosPassosCom2.csproj.AssemblyReference.cache
+C:\projetos\Nova pasta\PrimeirosPassosCom2\obj\Debug\net6.0\PrimeirosPassosCom2.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Nova pasta\PrimeirosPassosCom2\obj\Debug\net6.0\PrimeirosPassosCom2.AssemblyInfoInputs.cache
+C:\projetos\Nova pasta\PrimeirosPassosCom2\obj\Debug\net6.0\PrimeirosPassosCom2.AssemblyInfo.cs
+C:\projetos\Nova pasta\PrimeirosPassosCom2\obj\Debug\net6.0\PrimeirosPassosCom2.csproj.CoreCompileInputs.cache
+C:\projetos\Nova pasta\PrimeirosPassosCom2\obj\Debug\net6.0\PrimeirosPassosCom2.dll
+C:\projetos\Nova pasta\PrimeirosPassosCom2\obj\Debug\net6.0\refint\PrimeirosPassosCom2.dll
+C:\projetos\Nova pasta\PrimeirosPassosCom2\obj\Debug\net6.0\PrimeirosPassosCom2.pdb
+C:\projetos\Nova pasta\PrimeirosPassosCom2\obj\Debug\net6.0\PrimeirosPassosCom2.genruntimeconfig.cache
+C:\projetos\Nova pasta\PrimeirosPassosCom2\obj\Debug\net6.0\ref\PrimeirosPassosCom2.dll

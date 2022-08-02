@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PrimeirosPassosCom2/1.0.0": {
+        "runtime": {
+          "PrimeirosPassosCom2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrimeirosPassosCom2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
